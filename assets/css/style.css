@@ -2,6 +2,9 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     background-color: #F6F6E9;
@@ -57,46 +60,65 @@ nav a:hover {
 
 .icon-aboutme {
     display: flex;
-    justify-content: space-evenly;
 }
 
+.icon-aboutme img {
+    margin-right: 40px;
+}
+
+
+.container-2 {
+    display: block;
+}
+
+.container-2 h2 {
+    color: #291B25;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin-left: 60px;    
+}
+
+.icon-large {
+    margin-left: 80px;
+}
+
+.icon-large header {
+    width: 400px;
+}
+
+
+.container-3 {
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+}
 
 .icon {
     border-style: solid #291b25;
     padding: 10px;
     margin: 10px;
+    margin-bottom: 40px;
     height: 200px;
     width: 200px;
 }
 
-.container-2 {
-    display: flex;
+.icon img :hover {
+    cursor: pointer;
+    transform: scale(3.0);
 }
-
-.icon p {
-    text-align: center;
-}
-
-.icon img {
-    width: auto;
-}
-
-.icon img: :hover {
-    opacity: 0.3;
-}
-
-#contact {
+.container-4{
     display: flex;
     background-color: #291B25;
 }
 
-#contact li {
+.container-4 li {
     display: inline;
     flex-direction: row;
     align-items: flex-start;
 }
 
-#contact a {
+.container-4 a {
     text-decoration: none;
     list-style: none;
     font-size: 18px;
@@ -104,7 +126,7 @@ nav a:hover {
     padding: 14px 20px;
 }
 
-#contact a:hover {
+.container-4 a:hover {
     background-color: #61A6AB;
     border-radius: 50%;
 }
