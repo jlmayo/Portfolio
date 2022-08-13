@@ -1,11 +1,13 @@
 # challenge-02 Advanced CSS Challenge: Professional Portfolio
 
 ## **Table of Contents**
-* [The Repository](#the-repository-br)
+* [The Repository](#the-repository)
 * [The Scenario](#the-scenario)
 * [The Process](#the-process)
 * [Requirements Met](#requirements-met)
-* [Requirements Outstanding(#requirements-outstanding)
+* [Requirements Outstanding](#requirements-outstanding)
+* [Result](#result)
+* [Contributors](#contributors)
 
 ### **The Repository**
 This repository (challenge-02) contains HTML code, a CSS stylesheet, and image attachments for the stylesheet for the construction of a web application that is a portfolio page for Week 2 of University of Arizona Coding Boot Camp.
