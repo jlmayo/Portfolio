@@ -28,7 +28,7 @@ html {
     }
     .container-4 {
         display: flex;
-        margin: 20px 60px 20px 60px;
+        margin: 20px 0px 20px 60px;
         flex-direction: row;
         background-color: #291B25;
         height: 200px;
