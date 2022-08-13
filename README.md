@@ -39,5 +39,5 @@ While the refactored code is my own, I had tremendous help from classmates in st
 You can find my site at [Challenge-02](https://jlmayo.github.io/challenge-02/)
 
 ## **Completed Project**
-
+![Screenshot of Professional Portfolio Web Page](assets/images/screenshot_challenge-02_index.html.png)
 
