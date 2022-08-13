@@ -6,6 +6,33 @@ html {
     scroll-behavior: smooth;
 }
 
+@media (min-width:768px) {
+    .container-1 {
+        display: flex;
+        margin: 20px 60px 20px 60px;
+        flex-direction: row;
+        flex-wrap: no-wrap;
+    }
+    .container-2 {
+        display: flex;
+        margin: 20px 60px 20px 60px;
+        flex-direction: row;
+    }
+    }
+    .container-3 {
+        display: flex;
+        margin: 20px 60px 20px 60px;
+        flex-direction: row;
+
+    }
+    .container-4 {
+        display: flex;
+        margin: 20px 60px 20px 60px;
+        flex-direction: row;
+        background-color: #291B25;
+        height: 200px;
+    }
+
 body {
     background-color: #F6F6E9;
     color: #291B25;
@@ -49,73 +76,57 @@ nav a {
 
 nav a:hover {
     background-color: #61A6AB;
-    opacity: 0.5;
     border-radius: 50%;
 }
 
-.container-1 {
-    display: flex;
-    margin-left: 60px;
+#box-bigwork {
+    height: 100px;
 }
 
-.icon-aboutme {
-    display: flex;
-}
-
-.icon-aboutme img {
-    margin-right: 40px;
-}
-
-
-.container-2 {
-    display: block;
-}
-
-.container-2 h2 {
-    color: #291B25;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    line-height: 1.5em;
-    margin-left: 60px;    
-}
-
-.icon-large {
-    margin-left: 80px;
-}
-
-.icon-large header {
+#box-bigwork header {
     width: 400px;
+    height: 100px;
+    text-align: center;
+    font-family: cursive;
+    font-size: larger;
+    color: #291B25;
 }
 
+#box-ampic {
+    margin-right: 31px;
+}
 
-.container-3 {
-    display: flex;
+#box-workpic {
+    margin-right: 31px;
+    height: 200px;
     align-items: center;
-    margin-left: 60px;
 }
 
-.icon {
-    border-style: solid #291b25;
-    padding: 10px;
-    margin: 10px;
-    margin-bottom: 40px;
+#box-morework1 {
+    margin-right: 28px;
     height: 200px;
     width: 200px;
 }
 
-.icon img :hover {
-    cursor: pointer;
-    transform: scale(3.0);
+#box-morework2 {
+    margin-right: 28px;
+    height: 200px;
+    width: 200px;
 }
-.container-4{
-    display: flex;
-    background-color: #291B25;
+
+#box-morework3 {
+    height: 200px;
+    width: 200px;
+}
+
+#box-contact {
+    margin-right: 20px;
 }
 
 .container-4 li {
-    display: inline;
     flex-direction: row;
-    align-items: flex-start;
+    align-items: flex-end;
+    line-height: 3;
 }
 
 .container-4 a {
@@ -130,4 +141,3 @@ nav a:hover {
     background-color: #61A6AB;
     border-radius: 50%;
 }
-
