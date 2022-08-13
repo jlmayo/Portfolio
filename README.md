@@ -5,8 +5,7 @@
 * [The Scenario](#the-scenario)
 * [The Process](#the-process)
 * [Requirements Met](#requirements-met)
-* [Result](#result)
-* [Contributors](#contributors)
+* [Requirements Outstanding(#requirements-outstanding)
 
 ### **The Repository**
 This repository (challenge-02) contains HTML code, a CSS stylesheet, and image attachments for the stylesheet for the construction of a web application that is a portfolio page for Week 2 of University of Arizona Coding Boot Camp.
@@ -34,7 +33,8 @@ Most of the requirements were met. If grading occurs before I can add responsive
 The web page is very basic for now, but there is time and room to grow as I learn new skills.
 
 ### **Contributors**
-While the refactored code is my own, I had tremendous help from classmates in study sessions, my instructor and TA in office hours, and from my tutor in getting Git to work properly, recognizing and editing errors in the nav bar, and in consolidating the CSS code. 
+While the code is my own, I had tremendous help from classmates in study sessions, my instructor and TA in office hours.
+I learned about Flexbox CSS from [this video](https://www.youtube.com/watch?v=JJSoEo8JSnc) and [this one.](https://www.youtube.com/watch?v=3YW65K6LcIA)
 
 You can find my site at [Challenge-02](https://jlmayo.github.io/challenge-02/)
 
