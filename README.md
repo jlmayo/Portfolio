@@ -1,4 +1,4 @@
-# challenge-02 Advanced CSS Challenge: Professional Portfolio
+# challenge-02 Advanced CSS: Professional Portfolio
 
 ## **Table of Contents**
 * [The Repository](#the-repository)
