@@ -113,6 +113,12 @@ nav a:hover {
 }
 
 #box-morework4 {
+    margin-right: 28px;
+    height: 200px;
+    width: 200px;
+}
+
+#box-morework5 {
     height: 200px;
     width: 200px;
 }
