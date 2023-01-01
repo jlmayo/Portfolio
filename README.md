@@ -38,7 +38,7 @@ The web page is very basic for now, but there is time and room to grow as I lear
 While the code is my own, I had tremendous help from classmates in study sessions, my instructor and TA in office hours.
 I learned about Flexbox CSS from [this video](https://www.youtube.com/watch?v=JJSoEo8JSnc) and [this one.](https://www.youtube.com/watch?v=3YW65K6LcIA)
 
-You can find my site at [Challenge-02](https://jlmayo.github.io/challenge-02/)
+You can find my site at [Jennifer Mayo's Original Portfolio](https://jlmayo.github.io/Portfolio/)
 
 ## **Completed Project**
 ![Screenshot of Professional Portfolio Web Page](assets/images/screenshot_challenge-02_index.html.png)
